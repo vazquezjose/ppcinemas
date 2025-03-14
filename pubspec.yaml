@@ -20,8 +20,8 @@ flutter:
   assets:
     - images/combo.png
     - images/drink.png
-    - images/popcorn-large.jpg
-    - images/popcorn-small.jpg
+    - images/popcorn-large.png
+    - images/popcorn-small.png
     - images/qr-code.png
     - images/movies/1917.jpg
     - images/movies/ambulancia.jpg

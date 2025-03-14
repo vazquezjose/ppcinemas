@@ -139,13 +139,13 @@ class InfoProvider {
 		{
 			'id': 'popcorn-small',
 			'name': 'Palomitas pequeñas',
-			'image': 'popcorn-large.jpg',
+			'image': 'popcorn-small.png',
 			'price': 75
 		},
 		{
 			'id': 'popcorn-large',
 			'name': 'Palomitas grandes',
-			'image': 'popcorn-large.jpg',
+			'image': 'popcorn-large.png',
 			'price': 85
 		},
 		{
