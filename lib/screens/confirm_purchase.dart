@@ -64,7 +64,7 @@ class _ConfirmPurchaseScreenState extends State<ConfirmPurchaseScreen> {
 						crossAxisAlignment: CrossAxisAlignment.start,
 						children: [
 							Image.asset(
-								'images/${movie['poster'] as String}',
+								'images/movies/${movie['poster'] as String}',
 								height: 200,
 							),
 							SizedBox(
